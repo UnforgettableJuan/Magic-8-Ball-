@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555932707 source:c:\users\mcnuggetz\desktop\learn\magic 8 ball\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<ctime>
+
